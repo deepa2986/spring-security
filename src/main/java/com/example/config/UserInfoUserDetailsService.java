@@ -1,7 +1,7 @@
-package com.javatechie.config;
+package com.example.config;
 
-import com.javatechie.entity.UserInfo;
-import com.javatechie.repository.UserInfoRepository;
+import com.example.entity.UserInfo;
+import com.example.repository.UserInfoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

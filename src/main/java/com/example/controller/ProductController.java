@@ -1,8 +1,8 @@
-package com.javatechie.controller;
+package com.example.controller;
 
-import com.javatechie.dto.Product;
-import com.javatechie.entity.UserInfo;
-import com.javatechie.service.ProductService;
+import com.example.dto.Product;
+import com.example.entity.UserInfo;
+import com.example.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;

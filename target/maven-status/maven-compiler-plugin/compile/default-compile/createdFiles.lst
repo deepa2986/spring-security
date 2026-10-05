@@ -1,0 +1,4 @@
+com\javatechie\SpringSecurityLatestApplication.class
+com\javatechie\config\UserInfoUserDetailsService.class
+com\javatechie\entity\UserInfo.class
+com\javatechie\repository\UserInfoRepository.class

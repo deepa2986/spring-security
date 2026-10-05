@@ -1,6 +1,6 @@
-package com.javatechie.repository;
+package com.example.repository;
 
-import com.javatechie.entity.UserInfo;
+import com.example.entity.UserInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
